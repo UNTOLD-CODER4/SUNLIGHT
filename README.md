@@ -4,7 +4,7 @@
     
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![UNTOLD GitHub Profile](https://img.shields.io/badge/GitHub-UNTOLD-CODER4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNTOLD-CODER4)
+[![ GitHub Profile](https://img.shields.io/badge/GitHub-UNTOLD-CODER4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNTOLD-CODER4)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
