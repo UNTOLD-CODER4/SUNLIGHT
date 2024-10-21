@@ -96,7 +96,7 @@ HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = os.getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MOON-CODES/SUNLIGHT",
+    "https://github.com/UNTOLD-CODER4/SUNLIGHT",
 )
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "master")
 
