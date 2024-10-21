@@ -4,8 +4,6 @@
     
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![UNTOLD'sGitHub Profile](https://img.shields.io/badge/GitHub-UNTOLD-CODER-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNTOLD-CODER4)
-
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ![Stars](https://img.shields.io/github/stars/UNTOLD-CODER4/SUNLIGHT_REPO?style=social)
