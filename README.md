@@ -21,27 +21,27 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/NOBITA-BOT-MAKER/count.svg" />
+    <img align="middle" src="https://profile-counter.glitch.me/UNTOLD-CODER4/count.svg" />
 </p>
 
 <h2 align="center">
-    ─「 𝐍𝐎𝐁𝐈𝐓𝐀 𝐌𝐔𝐒𝐈𝐂  」─
+    ─「 𝐒𝐔𝐍𝐋𝐈𝐆𝐇𝐓 𝐌𝐔𝐒𝐈𝐂  」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝙽𝙾𝙱𝙸𝚃𝙰+𝙱𝙾𝚃+𝙼𝙰𝙺𝙴𝚁+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚄𝙽𝚃𝙾𝙻𝙳+𝙲𝙾𝙳𝙴𝚁+🎭">
 
 <p align="center">
-    <img src="https://envs.sh/wWo.jpg">
+    <img src="https://files.catbox.moe/icvsnm.jpg">
 </p>
 
 **
 ## 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏
 
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; text-align: center; background-color: #f9f9f9;">
-    <h3 style="margin: 0;">🅰🅰🆁🆄 🅼🆄🆂🅸🅲</h3>
+    <h3 style="margin: 0;">🅢︎🅤︎🅝︎🅛︎🅘︎🅖︎🅗︎🅣︎ 🅜︎🅤︎🅢︎🅘︎🅒︎</h3>
     <p>Join our Aaru Music Bot for an enhanced music experience!</p>
-    <a href="https://t.me/aaru_music_xbot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">Start Here</a>
+    <a href="https://t.me/sunlight_musicbot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; background-color: #4CAF50; color: white; border-radius: 5px; text-decoration: none;">Start Here</a>
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐋𝐀𝐔𝐃𝐄+𝐒𝐀𝐁𝐒𝐄+𝐏𝐄𝐇𝐋𝐄+𝐅𝐑𝐎𝐊+𝐊𝐑+𝐋𝐄⚠️">
@@ -64,7 +64,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐊𝐎𝐈+𝐃𝐈𝐊𝐊𝐀𝐓+𝐌𝐒𝐆+𝐊𝐑">
 <p align="center">
-    <a href="https://telegram.me/ll_NOBITA_BOT_DEVLOPER_ll">
+    <a href="https://telegram.me/UNTOLD_CODER4">
         <img src="https://img.shields.io/badge/-☆ησвιтα вσт мαкєя%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
 </p>
@@ -84,9 +84,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll">
+<a href="https://t.me/UNTOLD_CODER4">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/NOBITA_BOT_MAKER">
+<a href="https://instagram.com/Kakashi_mina02">
     <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
